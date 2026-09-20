@@ -1,24 +1,24 @@
-# Telemedicine Registration System
+## Publications
 
-Learned patient registration workflows hands-on at a community hospital, reducing patient registration calls by 80% and currently in use by [Kamphaeng Phet City Municipality](https://www.kppmu.go.th/news-detail?hd=1&id=124000).
+- [Official News](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
+- [Newspaper](https://ratchanonnoknoy.vercel.app/1751867708230_50070_center.pdf#page=3)
+- [TikTok](https://www.tiktok.com/@kpp.pr/video/7506431498870902037)
 
 ## Tech Stack
-- Next.js,
+
+- Next.js
 - Tailwind CSS
+- LINE Messaging API
 - Google Apps Script
 - Google Sheets
 - Vercel
-- LINE Messaging API
 
-
-## Architecture
+## Flowchart
 
 ```mermaid
 graph TD
-    A[Patient / Frontline Nurse] -->|Next.js| B[Web Application]
+    A[Patient] -->|Next.js| B[Web Application]
     B -->|API Request| C[Google Apps Script]
     C -->|Store Data| D[(Google Sheets)]
-    C -->|Send Notification| E[LINE Messaging API]
+    C -->|Notify the nurse| E[LINE Messaging API]
 ```
-
-
