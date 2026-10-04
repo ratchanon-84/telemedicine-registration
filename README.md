@@ -16,7 +16,4 @@ graph TD
 
 ## Publications
 
-- [Official News](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
-- [Newspaper](https://fa8.naxapi.com/kppmu.go.th/dnm_file/project/1751867708230_50070_center.pdf#page=3)
-
-![](https://res.cloudinary.com/dpa96jvla/image/upload/v1789533029/1747791924700_124000_g4_vc7jbg.jpg)
+[![Publication](https://res.cloudinary.com/dpa96jvla/image/upload/v1789533029/1747791924700_124000_g4_vc7jbg.jpg)](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
