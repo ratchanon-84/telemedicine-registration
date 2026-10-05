@@ -11,7 +11,8 @@ graph TD
 ## Tech
 
 - **Frontend:** Next.js, Tailwind CSS
-- **Backend:** Google Apps Script, Google Sheets
+- **Backend:** Google Apps Script
+- **Database:** Google Sheets
 - **API:** LINE Messaging API
 
 ## Publications
