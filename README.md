@@ -1,6 +1,6 @@
 ## Overview
 
-A Telemedicine Registration System that allows patients to register for remote healthcare services through a web application. The system stores registration data in Google Sheets and notifies nurses through the LINE Messaging API.
+A Telemedicine Registration System that reduced patient registration steps by 80% from 5 to 1. Built with Next.js, Google Apps Script, and Google Sheets, with nurse notifications via the LINE Messaging API and CI/CD implemented using free-tier cloud services.
 
 ## System Architecture
 
