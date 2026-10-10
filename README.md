@@ -1,6 +1,6 @@
 ## Overview
 
-A Telemedicine Registration System that reduced patient registration steps by 80% from 5 to 1. Built with Next.js, Google Apps Script, and Google Sheets, with nurse notifications via the LINE Messaging API and CI/CD implemented using free-tier cloud services.
+Reduced registration-related calls by 80%, allowing 4 out of 5 patients to register without calling hospital staff. Built with Next.js, Google Apps Script, and Google Sheets, with nurse notifications via the LINE Messaging API. Implemented CI/CD using free-tier cloud services.
 
 ## System Architecture
 
