@@ -1,6 +1,7 @@
 ## Overview
 
-Reduced registration-related calls by 80%, allowing 4 out of 5 patients to register without calling hospital staff. Built with Next.js, Google Apps Script, and Google Sheets, with nurse notifications via the LINE Messaging API. Implemented CI/CD using free-tier cloud services.
+Reduced registration-related calls by 80% allowing 4 out of 5 patients to register without calling hospital staff. Built the system with Next.js, Google Apps Script and Google Sheets. Implemented nurse notifications via the LINE Messaging API and CI/CD using free-tier cloud services.
+
 
 ## System Architecture
 
